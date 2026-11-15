@@ -1,5 +1,0 @@
-What does CPU stand for?|Central Processing Unit|Computer Personal Unit|Central Program Utility|1
-Which data structure follows FIFO order?|Stack|Queue|Tree|2
-Which keyword declares a constant in C++?|mutable|const|static|2
-What is the result of 3 * 4?|7|12|14|2
-Which header provides std::vector?|<vector>|<array>|<list>|1

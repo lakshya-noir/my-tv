@@ -1,8 +1,19 @@
-*.exe
-online_quiz
-quiz_tests
-*.tmp
-build/
-node_modules/
-playwright-report/
-test-results/
+# Your settings and signing key stay on your machine
+config.properties
+*.keystore
+*.idsig
+# An LG TV's app list and icons (webos/apps.py)
+webos-apps.local.json
+webos-icons.local/
+
+# Build output
+out/
+*.apk
+*.ipk
+!docs/webos/FreeMyTV-webos-*.ipk
+*.wgt
+__pycache__/
+
+# macOS
+.DS_Store
+tools/.i18n-cache.json
